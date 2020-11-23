@@ -16,4 +16,9 @@
   
   * https://www.technopat.net/sosyal/konu/rehber-sonoff-basic-akilli-anahtar-yeniden-programlama-flashlama.1092303/#post-7267107
   
+## In Action
+
+https://twitter.com/ibrahimcahit_/status/1330826663043747841
+
+  
 
